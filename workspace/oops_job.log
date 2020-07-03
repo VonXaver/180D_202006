@@ -1,0 +1,39 @@
+#!oops
+
+# 20200424
+腾讯云课程-目标质量
+    1 思维导图
+    2 实验文档
+    3 实验打包过程
+
+腾讯云认证
+    1 运维初级
+    2 运维高级
+    3 运维专家级别(待下半年确认)
+
+
+
+    ITIL4基础级认证，4月18日（第一天）直播回放链接：
+https://wx.vzan.com/live/tvchat-130489283?v=0.6409264899000457#/
+ITIL4基础级认证，4月19日（第二天）直播回放链接：
+https://wx.vzan.com/live/tvchat-1335726760?v=0.9328585288653719
+ITIL4基础级认证，4月25日（第三天）直播回放链接：https://wx.vzan.com/live/tvchat-256318843?v=0.25126088215966225
+
+
+ -------core ops 2020427-----------
+expired   unlimited
+
+
+
+dhcp server ip-pool 3F
+
+static-bind ip-address 10.30.113.2   24 hardware-address   6c92-bfde-115e
+static-bind ip-address 10.30.113.5   24 hardware-address   6c92-bfde-115c
+static-bind ip-address 10.30.113.6   24 hardware-address   000c-29b9-3c46
+static-bind ip-address 10.30.113.7   24 hardware-address   000c-2973-33da
+static-bind ip-address 10.30.113.8   24 hardware-address   000c-29af-d438
+expired unlimited
+return
+sa sa f
+
+

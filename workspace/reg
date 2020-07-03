@@ -1,0 +1,21 @@
+REG ADD HKCU\Software\Microsoft\Windows\CurrentVersion\Explorer\Advanced  /v DisabledHotkeys /d "S"
+
+
+REG delete HKLM\Software\Microsoft\Windows\CurrentVersion\Explorer\Advanced  /v DisabledHotkeys1
+iftayr@msn.cn
+
+
+dis ap all | in cf20
+dis ap all | in 0a60
+siceng
+dis ap all | in 72a0
+sanceng
+
+
+
+您好。
+    我司想用腾讯云产品搭建一个站点，采用伪静态技术生成访问页面
+    现要求该页面能够短时间内满足60万人访问的并发。请协助推荐一个云产品解决方案。具体可以联系我
+
+     岳新永
+    185 6222 5650

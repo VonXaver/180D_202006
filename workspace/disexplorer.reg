@@ -1,0 +1,81 @@
+oracle
+ ip 10.1.1.10/24
+ gw 10.1.1.1
+
+ hostname ora01
+
+
+ OMF
+  /u01
+
+oracle base
+  /pm/s/u
+  /pm/s/u/q/d
+oracle home
+ /pm/s/u/product/v/type_[n]
+
+
+variable     explanation     default
+  pm          挂载点          /u01 d:\
+s               标准目录名       app
+u               OS安装账户      oracle
+v               软件版本        12.1.0
+type            产品类型        dbhome
+n               安装账户        1
+q               内容提示        oradata
+d               数据库名        orcl
+
+
+
+OUI清单
+
+
+
+
+1-1 安装 数据库软件（oca p8）
+
+
+centos7.4
+ ip 10.1.1.20/24
+xgk202003
+
+CVM 区域 北上广 区域
+ddos 设置成宽松模式
+dnspod :qps 设置宽松匹配
+
+ab测试
+https://yq.aliyun.com/articles/506752
+
+1 青岛科大
+nio认证。
+
+学习班
+    学习班
+
+
+    舒适性
+
+    主动克服困难性。
+    扩展训练。
+
+
+日期：2020 03 28
+    8：15    开始服务器断电
+    8：50    1/6
+    10:30    2/6
+    12:30    2/6
+    13:30    2/6
+    14:30    3/6
+    15:30    3/6
+    16:30    3/6
+    17:30    3/6
+    18:30    3/6
+    19:30    3/6
+
+
+ https://item.jd.com/100005607784.html#crumb-wrap   *2
+ https://item.jd.com/3925799.html *1
+
+
+https://storage.llycloud.com/?/VMware/VMware%20resources/
+new.llycloud.com
